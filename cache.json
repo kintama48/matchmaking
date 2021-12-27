@@ -1,0 +1,68 @@
+{
+    "699643949651853462": {
+        "display_name": "[Support] Lo\u0192ton",
+        "rank_valuation": 6,
+        "primary_role": "support",
+        "secondary_role": "support"
+    },
+    "902578859000594473": {
+        "display_name": "[JUNGLE] ZapKiLLz",
+        "rank_valuation": 5,
+        "primary_role": "jungle",
+        "secondary_role": "top"
+    },
+    "902580906219405384": {
+        "display_name": "[Mid] dont type",
+        "rank_valuation": 22,
+        "primary_role": "mid",
+        "secondary_role": "support"
+    },
+    "419238541009092650": {
+        "display_name": "[ADC] Delp",
+        "rank_valuation": 8,
+        "primary_role": "adc",
+        "secondary_role": "top"
+    },
+    "902579742455267370": {
+        "display_name": "[Support] Pradelz",
+        "rank_valuation": 8,
+        "primary_role": "support",
+        "secondary_role": "mid"
+    },
+    "902577126690152579": {
+        "display_name": "[Top] sanserino34",
+        "rank_valuation": 6,
+        "primary_role": "top",
+        "secondary_role": "jungle"
+    },
+    "743373378672656445": {
+        "display_name": "[Mid] Xevel",
+        "rank_valuation": 17,
+        "primary_role": "mid",
+        "secondary_role": "secondary"
+    },
+    "902580904537501746": {
+        "display_name": "[Jungle] Payneless",
+        "rank_valuation": 13,
+        "primary_role": "jungle",
+        "secondary_role": "adc"
+    },
+    "902578715207278612": {
+        "display_name": "[Top] CYD NGU",
+        "rank_valuation": 38,
+        "primary_role": "top",
+        "secondary_role": "top"
+    },
+    "876002085349523506": {
+        "display_name": "[ADC] Levious",
+        "rank_valuation": 4.5,
+        "primary_role": "adc",
+        "secondary_role": "jungle"
+    },
+    "419228203799019530": {
+        "display_name": "[Support] WELL M3rcy",
+        "rank_valuation": 5,
+        "primary_role": "support",
+        "secondary_role": "mid"
+    }
+}
